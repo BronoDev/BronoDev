@@ -5,9 +5,12 @@
  <div>
   <a href="https://github.com/bronodev">
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=bronodev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bronodev&layout=compact&langs_count=7&theme=dracula"/>
-  <img align="right" img height="145em" alt="Bronodev" src="https://qph.fs.quoracdn.net/main-qimg-9725f43386f85c2923a8bf1c073244b2"/>
 </div>
+ 
+ <div>
+    <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bronodev&layout=compact&langs_count=7&theme=dracula"/>
+  <img align="right" img height="145em" alt="Bronodev" src="https://qph.fs.quoracdn.net/main-qimg-9725f43386f85c2923a8bf1c073244b2"/>
+ </div>
   
    ##
  
