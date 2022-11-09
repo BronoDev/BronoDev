@@ -1,6 +1,6 @@
 ## Ola! Eu sou o Bruno!👋
 
-- 🌱 Estudando analise e desenvolvimento de sistemas ...
+- 🌱 Desenvolvedor Front-end...
 
  <div>
   <a href="https://github.com/bronodev">
