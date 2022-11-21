@@ -9,7 +9,7 @@
 </div>
   
    ##
- ![Snake animation](https://github.com/seu-usuário-aqui/bronodev/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/bronodev/bronodev/blob/output/github-contribution-grid-snake.svg)
    ##
 <div> 
   <img align="right" height="120em" alt="Bronodev" src="https://qph.fs.quoracdn.net/main-qimg-9725f43386f85c2923a8bf1c073244b2"/>
