@@ -12,7 +12,5 @@
 
 <div> 
   <img align="right" height="120em" alt="Bronodev" src="https://qph.fs.quoracdn.net/main-qimg-9725f43386f85c2923a8bf1c073244b2"/>
- 	<a href="https://www.twitch.tv/oBrono" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contatobrono@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/brono/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 	<a href="https://www.linkedin.com/in/brono/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30em target="_blank"></a>
   </div>
