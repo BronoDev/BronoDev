@@ -9,8 +9,7 @@
 </div>
   
    ##
- ![Snake animation](https://github.com/bronodev/bronodev/blob/output/github-contribution-grid-snake.svg)
-   ##
+
 <div> 
   <img align="right" height="120em" alt="Bronodev" src="https://qph.fs.quoracdn.net/main-qimg-9725f43386f85c2923a8bf1c073244b2"/>
  	<a href="https://www.twitch.tv/oBrono" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
