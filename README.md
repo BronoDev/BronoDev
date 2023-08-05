@@ -24,4 +24,3 @@
     </a>
 </div>
   
-![Snake animation](https://github.com/BronoDev/BronoDev/blob/output/github-contribution-grid-snake.svg)
