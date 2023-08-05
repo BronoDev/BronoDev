@@ -11,7 +11,7 @@
     <h1 align="center">Tecnologias</h1> 
    </div>
 
-   [![My Skills](https://skills.thijs.gg/icons?i=html,css,javascript,php,mysql,wordpress&theme=light)](https://skills.thijs.gg)
+   [![My Skills](https://skills.thijs.gg/icons?i=html,css,bootstrap,javascript,php,mysql,wordpress&theme=light)](https://skills.thijs.gg)
     
   
   <h1 align="center">Redes Sociais</h1>
