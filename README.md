@@ -1,7 +1,7 @@
 ## Ola! Eu sou o Bruno!👋
-
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BronoDev)](https://github.com/BronoDev/github-readme-stats)
 <div>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BronoDev)](https://github.com/BronoDev/github-readme-stats)
+ 
   <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BronoDev&layout=compact&langs_count=30&theme=great-gatsby&count_private=true"/>
 </div>
 <br>
