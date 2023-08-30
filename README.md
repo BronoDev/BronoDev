@@ -1,7 +1,7 @@
 ## Ola! Eu sou o Bruno!👋
 
 ![BronoDev GitHub stats](https://github-readme-stats.vercel.app/api?username=BronoDev&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BronoDev&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BronoDev&layout=compact&bg_color=000000)
 <br>
 
 <div align="center"> 
