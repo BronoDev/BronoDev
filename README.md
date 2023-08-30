@@ -1,6 +1,6 @@
 ## Ola! Eu sou o Bruno!👋
 <div>
- 
+ ![BronoDev GitHub stats](https://github-readme-stats.vercel.app/api?username=BronoDev&show_icons=true&theme=transparent)
   <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BronoDev&layout=compact&langs_count=30&theme=great-gatsby&count_private=true"/>
 </div>
 <br>
