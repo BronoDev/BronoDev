@@ -1,7 +1,7 @@
 ## Ola! Eu sou o Bruno!👋
 
 ![BronoDev GitHub stats](https://github-readme-stats.vercel.app/api?username=BronoDev&show_icons=true&theme=transparent)
-[![BronoDev wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BronoDev)](https://github.com/BronoDev/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BronoDev&layout=compact)
 <br>
 
 <div align="center"> 
