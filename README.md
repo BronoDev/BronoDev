@@ -1,6 +1,6 @@
 ## Ola! Eu sou o Bruno!👋
 ![BronoDev GitHub stats](https://github-readme-stats.vercel.app/api?username=BronoDev&show_icons=true&theme=dracula&hide=issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BronoDev&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BronoDev&layout=compact&theme=dracula)
 
 <br>
 
