@@ -5,6 +5,8 @@
 Me chamo Bruno Bruneli de Souza, tenho 30 anos e sou natual do Rio Grande do Sul. Formado em Análise e Desenvolvimento de Sistemas na UniRitter e Pós Graduado em Design de produtos digitais - UX-UI na 
 Anhanguera!
 
+---
+
 ### 🤖 Linguagens e Tecnologias
 
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
