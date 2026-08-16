@@ -100,15 +100,6 @@ Fluxo de triagem inicial por sintomas com agendamento e lembretes, para reduzir 
 
 ---
 
-### 📊 GitHub
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=BronoDev&show_icons=true&hide_border=true&count_private=true" alt="Estatísticas do GitHub de Bruno" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BronoDev&layout=compact&hide_border=true&langs_count=6" alt="Linguagens mais usadas" />
-</p>
-
----
-
 <p align="center">
   <em>Aberto a oportunidades e freelas em front-end e UX/UI. Vamos conversar?</em>
 </p>
