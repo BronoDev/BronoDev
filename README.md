@@ -67,7 +67,7 @@ Trabalho no ponto onde design e código se encontram: pesquiso, prototipo e vali
 ![Acessibilidade](https://img.shields.io/badge/Acessibilidade%20(WCAG)-1A73E8?style=flat-square)
 
 ---
-
+<!--
 ### 🚀 Projetos em destaque
 
 | Projeto | Descrição | Stack |
@@ -84,7 +84,7 @@ Trabalho no ponto onde design e código se encontram: pesquiso, prototipo e vali
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=BronoDev&show_icons=true&hide_border=true&count_private=true&theme=default" alt="Estatísticas do GitHub" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BronoDev&layout=compact&hide_border=true&langs_count=6&theme=default" alt="Linguagens mais usadas" />
 </p>
-
+-->
 ---
 
 <p align="center">
