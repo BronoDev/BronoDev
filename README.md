@@ -10,13 +10,13 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/SEU-USUARIO">
+  <a href="https://linkedin.com/in/brono">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://behance.net/SEU-USUARIO">
+  <!-- <a href="https://behance.net/SEU-USUARIO">
     <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
-  </a>
-  <a href="mailto:SEU-EMAIL@exemplo.com">
+  </a> -->
+  <a href="mailto:brunobrunelli1995@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
 </p>
@@ -81,8 +81,8 @@ Trabalho no ponto onde design e código se encontram: pesquiso, prototipo e vali
 ### 📊 GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&hide_border=true&count_private=true&theme=default" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&hide_border=true&langs_count=6&theme=default" alt="Linguagens mais usadas" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BronoDev&show_icons=true&hide_border=true&count_private=true&theme=default" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BronoDev&layout=compact&hide_border=true&langs_count=6&theme=default" alt="Linguagens mais usadas" />
 </p>
 
 ---
